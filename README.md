@@ -1,7 +1,6 @@
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Welcome to my projects repository! As a skilled data scientist with experience in Python, SQL, EAD, Data Engineering, Machine Learning, Data Visualization, I am excited to showcase my real-world projects that demonstrate my expertise in these areas. From predictive modeling to data exploration and 
-analysis, my projects offer a glimpse into my problem-solving skills and passion for using data to drive informed decision-making. 
+Welcome to my projects repository! As a skilled data scientist with experience in Python, SQL, EAD, Data Engineering, Machine Learning, and Data Visualization, I am excited to showcase my real-world projects that demonstrate my expertise in these areas. From predictive modeling to data exploration and analysis, my projects offer a glimpse into my problem-solving skills and passion for using data to drive informed decision-making. 
 
 Thank you for taking the time to explore my work and I look forward to discussing how my skills can contribute to your team.
 
